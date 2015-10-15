@@ -1,0 +1,44 @@
+/*
+<!--Mark Wolgin anf Matt C. -->
+<!--Computer Science Website 2015 -->
+<!--CSS -->
+*/
+h1 {
+    background-color: #9C001A;
+    font-family:Rockwell, rockwell, slab serif;
+    font-size:56px;
+    color:#FFFFFF;
+    text-shadow:
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+     -1px 1px 0 #000,
+      1px 1px 0 #000;
+    width:window.outerWidth;height:80px;
+    position: relative;
+    margin: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+body {  
+  -webkit-font-smoothing: antialiased;
+}
+
+table, td {
+	border: 1px #990000 solid;
+}
+
+h {
+  margin:10px;
+  font-size:20px;
+}
+
+form {
+  border:1px;
+  width:200px;
+}
+
+input {
+  text-align:center;
+}
